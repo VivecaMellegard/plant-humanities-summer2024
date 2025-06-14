@@ -16,9 +16,16 @@ Addressing the House of Representatives on Thursday, February 24, 1831, Mr. Abel
 <param ve-image
 	   src="wc:Morus_alba_FrJPG.jpg"
 	   caption="This is the first image I want to display.">
-<param ve-image	   
+<param ve-image>	   
 	   
 <param ve-iframe
+	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
+	   
+<param ve-video
+	   src="77ktNSPFbwQ"
+	   start="60"
+	   end="90">
+	   
 
 	   
 	 
