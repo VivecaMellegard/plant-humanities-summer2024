@@ -17,4 +17,4 @@
 
 
 
-[^1]:   J. H. Cobb, A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts (Boston: Carter, Hendee, and Babcock, 1833), 13.
+[^1]:   J. H. Cobb, *A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts (Boston: Carter, Hendee, and Babcock, 1833), 13.
