@@ -43,7 +43,11 @@ Paragraph 10 In many cultures, the fabric is
 	   caption="Thought to be over 800 years old, this tree in Rajasthan, India is dedicated to Kalpvriksha. Wikimedia commons. Credit Seervims"
 	   fit="contain">
 	   
-	   
+Paragraph 11 Fame is surely secured by myths
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P11 PyramusThisbe-c 1510.jpg"
+	   caption="Pyramus and Thisbe by Hans Wechtlin c1510. Public domain">
+<param ve-image>
 
 
 <param ve-iframe
