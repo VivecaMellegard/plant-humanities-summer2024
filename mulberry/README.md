@@ -31,6 +31,14 @@ The story of the red mulberry is a less
 	   caption="Morus rubra 1818, Austrian National Library. Public domain">
 <param ve-image>
 
+Paragraph 9 Smooth and lustrous, silk has
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P9 Emperor Tiberius 1610–50.jpg"
+	   caption="Emperor Tiberius rejected silk as effeminate. Instead, his image here embodies masculinity by appearing in a suit of metal armour. Etching of the Emperor Tiberius on horseback by Matthäus Merian the Elder (1593-1650). Public domain The Metropolitan Museum of Art ">
+<param ve-image>
+
+
+
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
 	   
