@@ -14,8 +14,8 @@
 
 Addressing the House of Representatives on Thursday, February 24, 1831, Abel Wheeler, Chairman of the Committee on Agriculture, reported that the power and wealth of France were mainly derived from silk production and that a number of other European countries had embarked on the same path "with zeal."  Conversely, the United States was spending a fortune on foreign silk: between 1821 and 1825 the total value of imported silk was worth approximately $945 million in today’s currency.  To further his point, Mr. Wheeler compared this vast sum to the revenue generated from US bread exports: a paltry $5 million a year, or about $180 million today. Not only could mulberry leaves—the food of silkworms—be transformed into stacks of cash, but the mulberry tree itself was undemanding, requiring neither good soil nor good climate. However, as we will discover, despite years of effort to establish sericulture in the U.S, Wheeler's dream of turning leaves into gold came to nothing.
 <param ve-image
-	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P1 The House of Representatives by Samuel F. B. Morse, 1822-1823 Public Domain.jpg"
-	   caption="The House of Representatives">
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P1 The House of Represent.jpg"
+	   caption="The House of Representatives, painting by Samuel F.B. Morse 1822-1823">
 <param ve-image>	   
 	   
 <param ve-iframe
