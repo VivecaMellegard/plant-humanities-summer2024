@@ -55,6 +55,16 @@ Paragraph 12 Van Gogh painted a mulberry tree in 1889
 	   caption="Three men carousing beneath a mulberry tree. Letterpress after etching by Isaac Cruikshank 1808. Wellcome Collection Open Access on JSTOR">
 <param ve-image>
 
+Paragraph 26 Present in the landscapes of our childhoods
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 26 image 1 Growth and Manufacture of Silk 1828.jpeg"
+	   caption="Representation of the different ages of the silk worm. Illustration in The growth and manufacture of silk 1828 Secretary of the Treasury. Courtesy of Oak Springs Library">
+<param ve-image>
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P26 Library of Congress, Prints and Photographs Division.tif"
+	   caption="Group of workers at the Hand Silk Mill. In 1889, George Wheeler of Baltimore and C.W. Wilder of New York built a silk throwing factory in Fredericksburg, Virginia. Credit National Child Labor Committee collection, Library of Congress, Prints and Photographs Division.">
+<param ve-image>
+
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
 	   
