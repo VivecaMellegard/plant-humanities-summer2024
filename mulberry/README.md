@@ -49,6 +49,11 @@ Paragraph 11 Fame is surely secured by myths
 	   caption="Pyramus and Thisbe by Hans Wechtlin c1510. Public domain">
 <param ve-image>
 
+Paragraph 12 Van Gogh painted a mulberry tree in 1889
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P12 Threemencarousing 1808.jpg"
+	   caption="Three men carousing beneath a mulberry tree. Letterpress after etching by Isaac Cruikshank 1808. Wellcome Collection Open Access on JSTOR">
+<param ve-image>
 
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
