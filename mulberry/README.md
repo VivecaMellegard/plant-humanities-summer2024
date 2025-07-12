@@ -117,7 +117,10 @@ Paragraph 35 Back in 1979, the "alley cat nature"
 <param ve-image>
 
 Paragraph 36 *Morus rubra* has not dwindled to the same extent
-
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 36 wikimedia The_tree_bookjpg.jpg"
+	   caption="Photograph in the book A popular guide to knowledge of the trees of North America and to their uses and cultivation by Julia Ellen Rogers. Creative Commons on Wikimedia.">
+<param ve-image>
 
 
 <param ve-iframe
