@@ -65,6 +65,12 @@ Paragraph 26 Present in the landscapes of our childhoods
 	   caption="Group of workers at the Hand Silk Mill. In 1889, George Wheeler of Baltimore and C.W. Wilder of New York built a silk throwing factory in Fredericksburg, Virginia. Credit National Child Labor Committee collection, Library of Congress, Prints and Photographs Division.">
 <param ve-image>
 
+Paragraph 27 The hype spread from state to state
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P27 Rearing silkworms Washington 1883.png"
+	   caption="A page from a manual on rearing silkworms issued by the U.S. Department of Agriculture in 1903. Open Access Biodiversity Heritage Library">
+<param ve-image>
+
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
 	   
