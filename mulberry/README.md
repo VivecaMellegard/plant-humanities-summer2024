@@ -75,6 +75,12 @@ Paragraph 28 Horticulturists writing about the red mulberry
 <param ve-image
 	   src="wc:Morus_rubra_93979.png"
 	   caption="Drawing of Morus rubra L, the red mulberry from The Silva of North America vol 7 (1898) by C.S. Sargent. Courtesy of Missouri Botanical Garden public domain on Wikimedia.">
+	   
+Paragraph 29 At Lewis Ginter Botanical Garden near Richmond
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P29 Red Mulberry at Lewis Ginter Garden.jpg"
+	   caption="Children climbing the 100 year old Morus rubra at Lewis Ginter Botanical Gardens, Virginia. Credit: Robert Llwellyn">
+<param ve-image>
 
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
