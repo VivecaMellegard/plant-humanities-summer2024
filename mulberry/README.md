@@ -27,7 +27,9 @@ Here we tell the story of loss
 
 The story of the red mulberry is a less 
 <param ve-image
-src="wc:The_tree_book_A_popular_guide_to_a_knowledge_of_the_trees_of_North_America_and_to_their_uses_and_cultivation_(1920)_(14779837721).jpg">
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 3 Morus Rubra 1818.jpeg"
+	   caption="Morus rubra 1818, Austrian National Library. Public domain">
+<param ve-image>
 
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
