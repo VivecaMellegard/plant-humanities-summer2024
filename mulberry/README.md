@@ -95,7 +95,11 @@ Paragraph 31 For centuries, people in different parts of the world
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 31 Krochmal 1954 The Vanishing White Mulberry.png"
 	   caption="A young woman in the village of Basilica, Macedonia holds a home-spun silk dress. Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR">
 <param ve-image>
-	   
+	
+Paragraph 32 Alongside the pruning, grafting, altering
+<param ve-video
+	   src="PyYa6EQQFnw&t=4s>
+			
 
 
 <param ve-iframe
