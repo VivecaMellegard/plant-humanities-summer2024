@@ -100,7 +100,11 @@ Paragraph 32 Alongside the pruning, grafting, altering
 <param ve-video
 	   src="PyYa6EQQFnw&t=4s">
 			
-Paragraph 33 Plant knowledge			
+Paragraph 33 Plant knowledge extended to the medicinal properties of every part
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 33 Morus rubra fruit iNaturalist misspt 2018 Massachusetts.jpg"
+	   caption="Fruit of a red mulberry tree in Massachusetts. Credit: misspt 2018 on iNaturalist.">
+<param ve-image>
 			
 
 
