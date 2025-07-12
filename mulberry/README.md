@@ -122,6 +122,13 @@ Paragraph 36 *Morus rubra* has not dwindled to the same extent
 	   caption="Photograph in the book A popular guide to knowledge of the trees of North America and to their uses and cultivation by Julia Ellen Rogers. Creative Commons on Wikimedia.">
 <param ve-image>
 
+Paragraph 37 In the landscapes of past and present too
+<param ve-image
+	   src="wc:Bataille_de_Yorktown_by_Auguste_Couder.jpg"
+	   caption="George Washington accepts the surrender of the British General Charles Cornwallis in 1781 after the battle of Yorktown. Photograph of a painting by Auguste Couder. Commons Licensing Wikimedia ">
+
+
+
 
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
