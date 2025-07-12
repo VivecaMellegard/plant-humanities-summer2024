@@ -90,11 +90,10 @@ Paragraph 30 During his travels around North America in the 18th century
 Paragraph 31 For centuries, people in different parts of the world
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 31 image 1 Krochmal 1954.png"
-	   caption="An orchard of 150 year old mulberry trees (Morus alba L) near the village of Basilica, Macedonia. Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR>
-<param ve-image>
-<param ve-image
+	   caption="An orchard of 150 year old mulberry trees (Morus alba L) near the village of Basilica, Macedonia.Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR">
+				<param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 31 Krochmal 1954 The Vanishing White Mulberry.png"
-	   caption="A young woman in the village of Basilica, Macedonia holds a home-spun silk dress. Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR>
+	   caption="A young woman in the village of Basilica, Macedonia holds a home-spun silk dress. Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR">
 <param ve-image>
 	   
 
