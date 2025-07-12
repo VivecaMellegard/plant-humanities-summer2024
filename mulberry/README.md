@@ -98,7 +98,7 @@ Paragraph 31 For centuries, people in different parts of the world
 	
 Paragraph 32 Alongside the pruning, grafting, altering
 <param ve-video
-	   src="PyYa6EQQFnw&t=4s">
+	   src="NFXZCJwRRs8&t=13s">
 			
 Paragraph 33 Plant knowledge extended to the medicinal properties of every part
 <param ve-image
@@ -106,6 +106,9 @@ Paragraph 33 Plant knowledge extended to the medicinal properties of every part
 	   caption="Fruit of a red mulberry tree in Massachusetts. Credit: misspt 2018 on iNaturalist.">
 <param ve-image>
 			
+Paragraph 34 Observations recorded by Hernando de Soto in 1539 during
+<param ve-video
+	   src="PyYa6EQQFnw&t=4s">
 
 
 <param ve-iframe
