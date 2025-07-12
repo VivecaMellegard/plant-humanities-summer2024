@@ -25,6 +25,10 @@ Here we tell the story of loss
 	   caption="Leaf of Morus rubra, the red mulberry. Photo credit lanechaffin 2024">
 <param ve-image>
 
+The story of the red mulberry is a less 
+<param ve-image
+src="wc:The_tree_book_A_popular_guide_to_a_knowledge_of_the_trees_of_North_America_and_to_their_uses_and_cultivation_(1920)_(14779837721).jpg">
+
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
 	   
