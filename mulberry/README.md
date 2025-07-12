@@ -19,6 +19,12 @@ Addressing the House of Representatives on Thursday, February 24, 1831, Abel Whe
 
 >"The only appropriate food for the silkworm is the leaf of the mulberry tree. It should be the first business therefore of the silk grower to provide himself with the source of a constant supply of mulberry leaves." [^1]
 
+Here we tell the story of loss
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P2 Morus rubra iNaturalist.jpeg"
+	   caption="Leaf of Morus rubra, the red mulberry. Photo credit lanechaffin">
+<param ve-image>
+
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
 	   
