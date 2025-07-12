@@ -128,11 +128,18 @@ Paragraph 37 In the landscapes of past and present too
 	   caption="George Washington accepts the surrender of the British General Charles Cornwallis in 1781 after the battle of Yorktown. Photograph of a painting by Auguste Couder. Commons Licensing Wikimedia ">
 
 Paragraph 38 Building on its deeply rooted presence in American history,
-<param ve-compare
+<param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 38 Morus_rubra_NRCS-1.png"
-	   caption="Swipe across images of the red and white mulberry trees.">
-	   <param ve-compare
-			  src="gh:"VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 38 T. Davis Sydnor The Ohio State University, Bugwood.org.jpg">
+	   caption="The full canopy of a red mulberry tree.Wikimedia commons">
+	   
+Paragraph 39 Today, as we look beyond the functional
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 39 Julia Ellen Rogers 1927 The Nature Library Trees.png"
+	   caption="Drawing of a red mulberry tree by Julia Ellen Rogers in the 1927 edition of The Nature Library Trees">
+	   
+	   
+	
+
 	
 
 
