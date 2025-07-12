@@ -71,6 +71,11 @@ Paragraph 27 The hype spread from state to state
 	   caption="A page from a manual on rearing silkworms issued by the U.S. Department of Agriculture in 1903. Open Access Biodiversity Heritage Library">
 <param ve-image>
 
+Paragraph 28 Horticulturists writing about the red mulberry
+<param ve-image
+	   src="wc:Morus_rubra_93979.png"
+	   caption="Drawing of Morus rubra L, the red mulberry from The Silva of North America vol 7 (1898) by C.S. Sargent. Courtesy of Missouri Botanical Garden public domain on Wikimedia.">
+
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
 	   
