@@ -82,6 +82,11 @@ Paragraph 29 At Lewis Ginter Botanical Garden near Richmond
 	   caption="Children climbing the 100 year old Morus rubra at Lewis Ginter Botanical Gardens, Virginia. Credit: Robert Llwellyn">
 <param ve-image>
 
+Paragraph 30 During his travels around North America in the 18th century
+<param ve-image
+	   src="wc:UB_Maastricht_-_Kalm_1772_-_frontispiece.jpg"
+	   caption="Frontispiece of the 1772 Dutch translation of Pehr Kalm En Resa till Norra America. Credit: Maastricht University Library digital collections under Commons Licensing Wikimedia ">
+
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
 	   
