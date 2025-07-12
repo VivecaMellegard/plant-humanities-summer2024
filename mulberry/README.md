@@ -116,6 +116,8 @@ Paragraph 35 Back in 1979, the "alley cat nature"
 	   caption="Map showing the distribution of red mulberry in North America. Credit IUCN.">
 <param ve-image>
 
+Paragraph 36 *Morus rubra* has not dwindled to the same extent
+
 
 
 <param ve-iframe
