@@ -111,6 +111,10 @@ Paragraph 34 Observations recorded by Hernando de Soto in 1539 during
 	   src="PyYa6EQQFnw&t=4s">
 	   
 Paragraph 35 Back in 1979, the "alley cat nature"
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 35 IUCN distribution map of morus rubra.jpg"
+	   caption="Map showing the distribution of red mulberry in North America. Credit IUCN.">
+<param ve-image>
 
 
 
