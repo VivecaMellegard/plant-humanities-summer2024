@@ -2,17 +2,17 @@
 
 <param ve-config 
        title="Beyond the Silken Shadow: The Mulberry Tree's Metamorphosis and Homecoming"
-       source-image="https://upload.wikimedia.org/wikipedia/commons/6/66/Morus_sp._02.jpg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/6/66/Morus_sp._02.jpg" 
+       source-image="https://upload.wikimedia.org/wikipedia/commons/Singing_games_-_The_Mulberry_Bush.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/Singing_games_-_The_Mulberry_Bush.jpg" 
        height=100
-       author="Kate and Viveca"
+       author="Kate Aubrecht and Viveca Mellegård"
        layout="vertical">
 
 ### Introduction
 
 >"The only appropriate food for the silkworm is the leaf of the mulberry tree. It should be the first business therefore of the silk grower to provide himself with the source of a constant supply of mulberry leaves." [^1]
 
-Addressing the House of Representatives on Thursday, February 24, 1831, Mr. Abel Wheeler, Chairman of the Committee on Agriculture, reported that the power and wealth of France were mainly derived from silk production and that a number of other European countries had embarked on the same path "with zeal."  Conversely, the United States was spending a fortune on foreign silk: between 1821 and 1825 the total value of imported silk was worth approximately $943,723,497 in today’s currency.  To further his point, Mr. Wheeler compared this vast sum to the revenue generated from US bread exports: a paltry $5 million a year, or about $180 million today. Not only could mulberry leaves—the food of silkworms—be transformed into stacks of cash, but the mulberry tree itself was undemanding, requiring neither good soil nor good climate.  
+Addressing the House of Representatives on Thursday, February 24, 1831, Abel Wheeler, Chairman of the Committee on Agriculture, reported that the power and wealth of France were mainly derived from silk production and that a number of other European countries had embarked on the same path "with zeal."  Conversely, the United States was spending a fortune on foreign silk: between 1821 and 1825 the total value of imported silk was worth approximately $945 million in today’s currency.  To further his point, Mr. Wheeler compared this vast sum to the revenue generated from US bread exports: a paltry $5 million a year, or about $180 million today. Not only could mulberry leaves—the food of silkworms—be transformed into stacks of cash, but the mulberry tree itself was undemanding, requiring neither good soil nor good climate. However, as we will discover, despite years of effort to establish sericulture in the U.S, Wheeler's dream of turning leaves into gold came to nothing.
 <param ve-image
 	   src="wc:Morus_alba_FrJPG.jpg"
 	   caption="This is the first image I want to display.">
