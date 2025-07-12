@@ -86,6 +86,15 @@ Paragraph 30 During his travels around North America in the 18th century
 <param ve-image
 	   src="wc:UB_Maastricht_-_Kalm_1772_-_frontispiece.jpg"
 	   caption="Frontispiece of the 1772 Dutch translation of Pehr Kalm En Resa till Norra America. Credit: Maastricht University Library digital collections under Commons Licensing Wikimedia ">
+	   
+Paragraph 31 For centuries, people in different parts of the world
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 31 image 1 Krochmal 1954.png"
+	   caption="An orchard of 150 year old mulberry trees (Morus alba L) near the village of Basilica, Macedonia. Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR>
+<param ve-image
+	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 31 Krochmal 1954 The Vanishing White Mulberry.png"
+	   caption="A young woman in the village of Basilica holding a home-spun silk dress. Credit:Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR">
+<param ve-image>
 
 <param ve-iframe
 	   src="https://archive.org/details/manualcontaining00cobb_0/page/42">
