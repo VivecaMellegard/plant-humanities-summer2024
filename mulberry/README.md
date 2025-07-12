@@ -22,7 +22,7 @@ Addressing the House of Representatives on Thursday, February 24, 1831, Abel Whe
 Here we tell the story of loss
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P2 Morus rubra iNaturalist.jpeg"
-	   caption="Leaf of Morus rubra, the red mulberry. Photo credit lanechaffin">
+	   caption="Leaf of Morus rubra, the red mulberry. Photo credit lanechaffin 2024">
 <param ve-image>
 
 <param ve-iframe
