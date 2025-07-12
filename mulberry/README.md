@@ -37,6 +37,13 @@ Paragraph 9 Smooth and lustrous, silk has
 	   caption="Emperor Tiberius rejected silk as effeminate. Instead, his image here embodies masculinity by appearing in a suit of metal armour. Etching of the Emperor Tiberius on horseback by Matthäus Merian the Elder (1593-1650). Public domain The Metropolitan Museum of Art ">
 <param ve-image>
 
+Paragraph 10 In many cultures, the fabric is 
+<param ve-image
+	   src="wc:Kalpvriksh_Bilara_Jodhpur_Rajasthan.jpg"
+	   caption="Thought to be over 800 years old, this tree in Rajasthan, India is dedicated to Kalpvriksha. Wikimedia commons. Credit Seervims"
+	   fit="contain">
+	   
+	   
 
 
 <param ve-iframe
