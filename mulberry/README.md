@@ -196,7 +196,11 @@ Paragraph 39 Today, as we look beyond the functional
 [^73]: Krochmal, A. "The vanishing white mulberry of northern Greece." Economic Botany 8, no. 2 (1954): 145-151.
 [^74]: Laws, Bill. Fifty plants that changed the course of history. Newton Abbot: David & Charles, 2010.
 [^75]: The male tree produces clouds of pollen that cause hay fever, but when a branch from a female tree is grafted onto it, the male tree becomes female and stops producing pollen. The tree is allergy free! (https://arboretum.uoguelph.ca,)
-[^76]: Kalm, Pehr. Travels into North America Containing Its Natural History, and a Circumstantial Account of Its Plantations and Agriculture in General : With the Civil, Ecclesiastical and Commercial State of the Country, the Manners of the Inhabitants, and Several Curious and Important Remarks on Various Subjects. London: Printed for the editor; and sold by T. Lowndes, 1771. https://www.biodiversitylibrary.org/page/32458197. 	   
+[^76]: Kalm, Pehr. Travels into North America Containing Its Natural History, and a Circumstantial Account of Its Plantations and Agriculture in General : With the Civil, Ecclesiastical and Commercial State of the Country, the Manners of the Inhabitants, and Several Curious and Important Remarks on Various Subjects. London: Printed for the editor; and sold by T. Lowndes, 1771. https://www.biodiversitylibrary.org/page/32458197. 	
+[^77]: Nolan, Justin. "The Roots of Tradition: Social Ecology, Cultural Geography, and Medicinal Plant Knowledge in the Ozark-Ouachita Highlands." Journal of Ethnobiology 18(2) (1998): 249–269.
+[^78]: Banisteria : a journal devoted to the natural history of Virginia
+[^79]: Johnson, Laurence. A Manual of the Medical Botany of North America. (New York: William Wood & Company, 1884). 
+	   
 	   
 	   
 	   
