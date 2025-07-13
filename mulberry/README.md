@@ -17,7 +17,7 @@ Addressing the House of Representatives on Thursday, February 24, 1831, Abel Whe
 	   caption="The House of Representatives, painting by Samuel F.B. Morse 1822-1823">
 <param ve-image>	   
 
->"The only appropriate food for the silkworm is the leaf of the mulberry tree. It should be the first business therefore of the silk grower to provide himself with the source of a constant supply of mulberry leaves." [^1]
+>The only appropriate food for the silkworm is the leaf of the mulberry tree. It should be the first business therefore of the silk grower to provide himself with the source of a constant supply of mulberry leaves.[^2]
 
 Here we tell the story of loss
 <param ve-image
@@ -161,3 +161,4 @@ Paragraph 39 Today, as we look beyond the functional
 
 
 [^1]: J. H. Cobb, *A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts* (Boston: Carter, Hendee, and Babcock, 1833), 13.
+[^2]: Cobb, **A Manual Containing Information*.
