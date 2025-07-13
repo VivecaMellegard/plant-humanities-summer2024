@@ -37,7 +37,7 @@ Paragraph 9 Smooth and lustrous, silk has enchanted the wealthy all over the wor
 	   caption="Emperor Tiberius rejected silk as effeminate. Instead, his image here embodies masculinity by appearing in a suit of metal armour. Etching of the Emperor Tiberius on horseback by Matthäus Merian the Elder (1593-1650). Public domain The Metropolitan Museum of Art ">
 <param ve-image>
 
-Paragraph 10 In many cultures, the fabric is 
+Paragraph 10 Silk is sacred in many cultures.[^18]  As is the mulberry tree. In cosmologies, myths, and legends, there is an aura of reverence for the mulberry tree. In Hindu-Buddhist cosmology for example, the divine Kalpavriksha is thought to be a white mulberry.[^19] The Romans considered the black mulberry sacred to Minerva.[^20] Sicilians still celebrate the Feast of St Nicholas by cutting a branch from the black and keeping it home for a year.[^20]  
 <param ve-image
 	   src="wc:Kalpvriksh_Bilara_Jodhpur_Rajasthan.jpg"
 	   caption="Thought to be over 800 years old, this tree in Rajasthan, India is dedicated to Kalpvriksha. Wikimedia commons. Credit Seervims"
@@ -167,4 +167,8 @@ Paragraph 39 Today, as we look beyond the functional
 [^5]: Peter Coles, Mulberry (London, UK: Reaktion Books, Ltd., 2019).	
 [^15] John Worlidge, Systema Agriculturae: The Mystery of Husbandry Discovered (London: T. Dring, 1668), 176.
 [^16]: United States Department of Treasury Doc. No. 158.
-[^17]: United States Department of Treasury Doc. No. 158.	   
+[^17]: United States Department of Treasury Doc. No. 158.
+[^18]: Anbumozhi 2007.	
+[^19] Coles, Mulberry; Indosphere, "Kalpavriksha: The Primordial World Tree." Medium, March 23, 2021. 2019.
+[^20] Coles, Mulberry, p174 .
+	   
