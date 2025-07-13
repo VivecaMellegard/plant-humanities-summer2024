@@ -202,6 +202,14 @@ Paragraph 39 Today, as we look beyond the functional
 [^79]: Johnson, Laurence. A Manual of the Medical Botany of North America. (New York: William Wood & Company, 1884). 
 [^80]: Andreu, Michael G., Melissa H. Friedman, Mary McKenzie, and Heather V. Quintana. 2010. "Morus Rubra, Red Mulberry: FOR 264 FR326, 6 2010.". EDIS 2010 (4). Gainesville, FL. https://doi.org/10.32473/edis-fr326-2010.
 [^81]: Sargent, Silva of North America.
+[^82]: Koller and Dirr, "Arnoldia." 
+[^83]: See Julian Campbell about the negative impact of Morus alba on the native Morus rubra in North America: the nakedoaktreefarm.com/services-6-1. 
+[^84]: Government of Ontario. "Red Mulberry (Species at Risk)." Ontario.ca. Last modified September 25, 2014. https://www.ontario.ca/page/red-mulberry-species-risk.
+[^85]: University of Guelph Arboretum. "Red Mulberry Conservation." Arboretum at the University of Guelph. Accessed August 9, 2024. https://arboretum.uoguelph.ca/research-conservation/red-mulberry-conservation.
+[^86]: Native Plant Trust. "Morus rubra (Red Mulberry)." Go Botany. Accessed August 9, 2024. https://gobotany.nativeplanttrust.org/species/morus/rubra/.
+[^87]: Native Plant Trust. "Morus rubra (Red Mulberry)." 
+[^88]: Native Plant Trust. 
+	   
 	   
 	   
 	   
