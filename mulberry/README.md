@@ -89,7 +89,7 @@ Paragraph 30 During his travels around North America in the in the eighteenth ce
 	   src="wc:UB_Maastricht_-_Kalm_1772_-_frontispiece.jpg"
 	   caption="Frontispiece of the 1772 Dutch translation of Pehr Kalm En Resa till Norra America. Credit: Maastricht University Library digital collections under Commons Licensing Wikimedia ">
 	   
-Paragraph 31 For centuries, people in different parts of the world
+Paragraph 31 For centuries, people in different parts of the world have used mulberry trees for multiple purposes in both house and homestead. Settlers in the United States, including farmers and gardeners, discovered how adaptable the white and red mulberry tree were to being shaped for human convenience. White mulberry was pruned so that children and "aged women" could harvest its leaves.[^72] In Europe, Macedonian farmers selected and bred white mulberry trees to have broad leaves with low moisture and fiber content.[^73] In China, it was common to graft cultivated stock from the white mulberry onto established wild rootstock—five years later, the leaves were ready to harvest.[^74] Mulberry trees were so malleable that even their sex could be changed through simple grafting of a branch from a female tree onto a male tree.[^75]  
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 31 image 1 Krochmal 1954.png"
 	   caption="An orchard of 150 year old mulberry trees (Morus alba L) near the village of Basilica, Macedonia.Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR">
