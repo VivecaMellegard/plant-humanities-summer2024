@@ -118,13 +118,13 @@ Paragraph 35 In 1979, the "alley-cat nature" of the white mulberry recommended t
 	   caption="Map showing the distribution of red mulberry in North America. Credit IUCN.">
 <param ve-image>
 
-Paragraph 36 *Morus rubra* has not dwindled to the same extent
+Paragraph 36 The red mulberry has not dwindled to the same extent in the United States.[^86] Nevertheless, in Maine and New Hampshire, the species has disappeared.[^87] In Vermont and Massachusetts, it is considered "extremely rare."[^88] While the future of the species is unclear, the place of the red mulberry is embedded in the cultural heritage along the length and breadth of the northeastern seaboard, as a source of food and medicine, cloth and wood, for humans, our domestic animals, birds and insects. 
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 36 wikimedia The_tree_bookjpg.jpg"
 	   caption="Photograph in the book A popular guide to knowledge of the trees of North America and to their uses and cultivation by Julia Ellen Rogers. Creative Commons on Wikimedia.">
 <param ve-image>
 
-Paragraph 37 In the landscapes of past and present too
+Paragraph 37 In the landscapes of past and present,the red mulberry inhabits a deep history that is particularly North American. The centenarian tree at Lewis Ginter Botanical Garden attracts generations of children and adults every season, whether to savor its juicy berries, climb its branches, or sit in its shade when it is in full and generous leaf. While this beloved red mulberry is firmly part of visitors’ memories, blogs, texts and photographs, there is another tree whose chronicle stretches further back in time, to the early days of the nation: the Yorktown-Washington tree, a mulberry tree under which it is said that George Washington slept "undisturbed, unvisited, unphotographed."[^89] 
 <param ve-image
 	   src="wc:Bataille_de_Yorktown_by_Auguste_Couder.jpg"
 	   caption="George Washington accepts the surrender of the British General Charles Cornwallis in 1781 after the battle of Yorktown. Photograph of a painting by Auguste Couder. Commons Licensing Wikimedia ">
@@ -208,7 +208,8 @@ Paragraph 39 Today, as we look beyond the functional
 [^85]: University of Guelph Arboretum. "Red Mulberry Conservation." Arboretum at the University of Guelph. Accessed August 9, 2024. https://arboretum.uoguelph.ca/research-conservation/red-mulberry-conservation.
 [^86]: Native Plant Trust. "Morus rubra (Red Mulberry)." Go Botany. Accessed August 9, 2024. https://gobotany.nativeplanttrust.org/species/morus/rubra/.
 [^87]: Native Plant Trust. "Morus rubra (Red Mulberry)." 
-[^88]: Native Plant Trust. 
+[^88]: Native Plant Trust.
+[^89]: The William and Mary College Quarterly Historical Magazine, Vol. 13, No. 4 Apr.,1905: 246.	   
 	   
 	   
 	   
