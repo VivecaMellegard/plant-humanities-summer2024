@@ -112,7 +112,7 @@ Paragraph 34 Observations recorded by Hernando de Soto in 1539 during his travel
 <param ve-video
 	   src="PyYa6EQQFnw&t=4s">
 	   
-Paragraph 35 Back in 1979, the "alley cat nature"
+Paragraph 35 In 1979, the "alley-cat nature" of the white mulberry recommended the adaptability and fast growth of the species.[^82] However, the fast propagation of the white mulberry has put red mulberry in danger of dying out in parts of Canada.[^83] In Ontario, red mulberry is an endangered species. In 2023, only three hundred trees remained.[^84] Along with loss and fragmentation of its forest habitat, the red mulberry’s main threat is the white mulberry, which both outcompetes and quickly hybridizes red mulberry. The hybrid trees are difficult to distinguish as either purely white or red until they are adults, when the glossy and smooth leaves of the white mulberry contrast with the leaves of the red mulberry, which aren’t shiny and feel rough to the touch. Conservation efforts of the red mulberry center around controlled pollination once they have been confirmed as a pure species through genetic testing.[^85] 
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 35 IUCN distribution map of morus rubra.jpg"
 	   caption="Map showing the distribution of red mulberry in North America. Credit IUCN.">
