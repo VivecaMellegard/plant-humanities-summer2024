@@ -200,6 +200,9 @@ Paragraph 39 Today, as we look beyond the functional
 [^77]: Nolan, Justin. "The Roots of Tradition: Social Ecology, Cultural Geography, and Medicinal Plant Knowledge in the Ozark-Ouachita Highlands." Journal of Ethnobiology 18(2) (1998): 249–269.
 [^78]: Banisteria : a journal devoted to the natural history of Virginia
 [^79]: Johnson, Laurence. A Manual of the Medical Botany of North America. (New York: William Wood & Company, 1884). 
+[^80]: Andreu, Michael G., Melissa H. Friedman, Mary McKenzie, and Heather V. Quintana. 2010. "Morus Rubra, Red Mulberry: FOR 264 FR326, 6 2010.". EDIS 2010 (4). Gainesville, FL. https://doi.org/10.32473/edis-fr326-2010.
+[^81]: Sargent, Silva of North America.
+	   
 	   
 	   
 	   
