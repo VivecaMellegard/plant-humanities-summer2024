@@ -31,7 +31,7 @@ The story of the red mulberry is a less glamorous one than that of the white mul
 	   caption="Morus rubra 1818, Austrian National Library. Public domain">
 <param ve-image>
 
-Paragraph 9 Smooth and lustrous, silk has
+Paragraph 9 Smooth and lustrous, silk has enchanted the wealthy all over the world for millennia. Imagine the wonder and delight of discovering the delicate threads that shone like silver. It’s no surprise that the silkworm itself was revered as an extraordinary organism with its ability to convert white mulberry leaves into precious filaments. Writing about the mysteries of animal husbandry in 1668, John Worlidge, an English agriculturalist, mused on the sublime powers of "This, though but a Worm, yet glorious Creature."[^15]  Cleopatra was enamored with the billowing silk sails of her pleasure boat.[^16]  Possibly because it was so ephemeral and delicate, in ancient Rome silk was considered too effeminate for men to wear. In the reign of the second Roman Emperor, Tiberius (42 BCE—37 CE), a law was passed "that no man should dishonor himself by wearing silken garments."[^17}
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P9 Emperor Tiberius 1610–50.jpg"
 	   caption="Emperor Tiberius rejected silk as effeminate. Instead, his image here embodies masculinity by appearing in a suit of metal armour. Etching of the Emperor Tiberius on horseback by Matthäus Merian the Elder (1593-1650). Public domain The Metropolitan Museum of Art ">
@@ -164,4 +164,7 @@ Paragraph 39 Today, as we look beyond the functional
 [^2]: United States Department of Treasury Doc. No. 158
 [^3]: United States Department of Treasury Doc. No. 158. p iii. Although mulberry trees prefer moist, well-drained soil, they can tolerate acidic or alkaline conditions as well as full sun or partial shade.	   
 [^4]: Cobb, *A Manual Containing Information*.
-[^5]: Peter Coles, Mulberry (London, UK: Reaktion Books, Ltd., 2019).	   
+[^5]: Peter Coles, Mulberry (London, UK: Reaktion Books, Ltd., 2019).	
+[^15] John Worlidge, Systema Agriculturae: The Mystery of Husbandry Discovered (London: T. Dring, 1668), 176.
+[^16]: United States Department of Treasury Doc. No. 158.
+[^17]: United States Department of Treasury Doc. No. 158.	   
