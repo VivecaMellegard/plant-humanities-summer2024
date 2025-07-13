@@ -37,19 +37,19 @@ Paragraph 9 Smooth and lustrous, silk has enchanted the wealthy all over the wor
 	   caption="Emperor Tiberius rejected silk as effeminate. Instead, his image here embodies masculinity by appearing in a suit of metal armour. Etching of the Emperor Tiberius on horseback by Matthäus Merian the Elder (1593-1650). Public domain The Metropolitan Museum of Art ">
 <param ve-image>
 
-Paragraph 10 Silk is sacred in many cultures.[^18]  As is the mulberry tree. In cosmologies, myths, and legends, there is an aura of reverence for the mulberry tree. In Hindu-Buddhist cosmology for example, the divine Kalpavriksha is thought to be a white mulberry.[^19] The Romans considered the black mulberry sacred to Minerva.[^20] Sicilians still celebrate the Feast of St Nicholas by cutting a branch from the black and keeping it home for a year.[^20]  
+Paragraph 10 Silk is sacred in many cultures.[^18]  As is the mulberry tree. In cosmologies, myths, and legends, there is an aura of reverence for the mulberry tree. In Hindu-Buddhist cosmology for example, the divine Kalpavriksha is thought to be a white mulberry.[^19] The Romans considered the black mulberry sacred to Minerva.[^20] Sicilians still celebrate the Feast of St Nicholas by cutting a branch from the black and keeping it home for a year.[^21]  
 <param ve-image
 	   src="wc:Kalpvriksh_Bilara_Jodhpur_Rajasthan.jpg"
 	   caption="Thought to be over 800 years old, this tree in Rajasthan, India is dedicated to Kalpvriksha. Wikimedia commons. Credit Seervims"
 	   fit="contain">
 	   
-Paragraph 11 Fame is surely secured by myths
+Paragraph 11Fame is surely secured by myths, art, and song, and the mulberry plays a prominent role in all three. In the Babylonian love story about Pyramus and Thisbe by the Roman poet, Ovid in the first century BCE, the lovers arrange to meet under a mulberry tree, most likely a black mulberry since the white mulberry was not present in Babylon as the time. Thisbe arrives first but runs away after a lion attacks her, leaving behind her bloodied scarf. When Pyramus arrives, he sees the scarf and, believing Thisbe to be dead, stabs himself. When Thisbe returns to the tree and sees her lover’s body, she ends her life. It is said their blood is what gave the berry its dark color. 
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P11 PyramusThisbe-c 1510.jpg"
 	   caption="Pyramus and Thisbe by Hans Wechtlin c1510. Public domain">
 <param ve-image>
 
-Paragraph 12 Van Gogh painted a mulberry tree in 1889
+Paragraph 12 Van Gogh painted a mulberry tree in 1889, one year before his death, in brushstrokes that pulsate with life, echoing perhaps his feverish state of mind during a stay at an asylum. More cheerful is the depiction in folklore where the mulberry tree inspires carousing songs, odes to its juicy fruit,[^22] and the tree around which children dance as they sing the popular nursery rhyme.[^23] 
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P12 Threemencarousing 1808.jpg"
 	   caption="Three men carousing beneath a mulberry tree. Letterpress after etching by Isaac Cruikshank 1808. Wellcome Collection Open Access on JSTOR">
@@ -169,6 +169,10 @@ Paragraph 39 Today, as we look beyond the functional
 [^16]: United States Department of Treasury Doc. No. 158.
 [^17]: United States Department of Treasury Doc. No. 158.
 [^18]: Anbumozhi 2007.	
-[^19] Coles, Mulberry; Indosphere, "Kalpavriksha: The Primordial World Tree." Medium, March 23, 2021. 2019.
-[^20] Coles, Mulberry, p174 .
+[^19]: Coles, Mulberry; Indosphere, "Kalpavriksha: The Primordial World Tree." Medium, March 23, 2021. 2019.
+[^20]: Coles, Mulberry, p174
+[^21]: Coles, Mulberry, p174
+[^22]: Platt, Mulberry Fruit Poem; Isaac Cruikshank, Three Men Carousing beneath a Mulberry Tree, with Verses of a Song Comparing the Life of Humans to the Life of a Tree, etching after I. Cruikshank, March 1, 1808, [1 print: etching and letterpress], Wellcome Collection.
+[^23]: According to one source, the rhyme is about women prisoners walking around the mulberry tree at Wakefield Prison in Great Britain. The prison was originally built in 1594 and has housed some of the UK’s most notorious prisoners. The tree died and was removed in 2019 but cuttings from it have been germinated and the next generation tree is now in Yorkshire Sculpture Park (Dave Higgens, "Mulberry bush that inspired nursery rhyme has new lease of life," The Independent,  March 30, 2023).
+	   
 	   
