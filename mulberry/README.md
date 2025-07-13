@@ -175,6 +175,12 @@ Paragraph 39 Today, as we look beyond the functional
 [^22]: Platt, Mulberry Fruit Poem; Isaac Cruikshank, Three Men Carousing beneath a Mulberry Tree, with Verses of a Song Comparing the Life of Humans to the Life of a Tree, etching after I. Cruikshank, March 1, 1808, [1 print: etching and letterpress], Wellcome Collection.
 [^23]: According to one source, the rhyme is about women prisoners walking around the mulberry tree at Wakefield Prison in Great Britain. The prison was originally built in 1594 and has housed some of the UK’s most notorious prisoners. The tree died and was removed in 2019 but cuttings from it have been germinated and the next generation tree is now in Yorkshire Sculpture Park (Dave Higgens, "Mulberry bush that inspired nursery rhyme has new lease of life," The Independent,  March 30, 2023).
 [^56]: Chambliss, "The mulberry craze."
+[^57]: Ryland, Elizabeth Hawes. "America’s ‘Multicaulis Mania.’" The William and Mary College Quarterly Historical Magazine 19, no. 1 (1939): 25–33. https://doi.org/10.2307/1923038.
+[^58]: Chambliss, "The mulberry craze."
+[^59]: Chambliss.
+[^60]: Marsh, "The Republic's New Clothes."
+[^61]: Ryland, "America’s ‘Multicaulis Mania.’"
+	   
 	   
 	   
 	   
