@@ -102,7 +102,7 @@ Paragraph 32 Alongside the pruning, grafting, altering, and shaping to suit huma
 <param ve-video
 	   src="NFXZCJwRRs8&t=13s">
 			
-Paragraph 33 Plant knowledge extended to the medicinal properties of every part
+Paragraph 33 Plant knowledge extended to the medicinal properties of every part of the red mulberry tree from berry, leaf, twig, bark, and root. The Ozark-Ouachita Highlands peoples used the bark as a laxative.[^77] The Cherokee and Mohegan people applied its sap to the skin as a treatment for ringworm.[^78]  The acidity of mulberry juice as well as the leaves made a refreshing and cooling treatment for fevers, sore throats, and high blood pressure.[^79]  
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 33 Morus rubra fruit iNaturalist misspt 2018 Massachusetts.jpg"
 	   caption="Fruit of a red mulberry tree in Massachusetts. Credit: misspt 2018 on iNaturalist.">
