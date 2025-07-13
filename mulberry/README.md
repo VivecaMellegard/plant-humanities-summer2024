@@ -73,7 +73,7 @@ Paragraph 27 The hype spread from state to state: New Jersey, Pennsylvania, Dela
 
 >Nor is this tree less beautiful to the eye than the fairest elm, and is very proper for walks and avenues.[^62]
 
-Paragraph 28 Horticulturists writing about the red mulberry
+Paragraph 28 Horticulturists writing about the red mulberry use language that elevates the tree in words that suggest a patriotic pride in the species that is native to North America. A popular handbook from 1900 quotes Charles Sprague Sargent, author of the periodic survey of American trees, Silva of North America, who lists the many winning qualities of the red mulberry.[^63] Apart from a wide and dense canopy that provides abundant shade, "its freedom from disease and the attacks of disfiguring insects, its prolificness, its hardiness except in its earliest years, and the rapidity of its growth in good soil, make it a most desirable ornamental tree."[^64] Silva of North America 1892-1902 admires the red mulberry’s "shapely head" and remarks on it being a "venerable tree."[^65] 
 <param ve-image
 	   src="wc:Morus_rubra_93979.png"
 	   caption="Drawing of Morus rubra L, the red mulberry from The Silva of North America vol 7 (1898) by C.S. Sargent. Courtesy of Missouri Botanical Garden public domain on Wikimedia.">
@@ -182,7 +182,11 @@ Paragraph 39 Today, as we look beyond the functional
 [^59]: Chambliss.
 [^60]: Marsh, "The Republic's New Clothes."
 [^61]: Ryland, "America’s ‘Multicaulis Mania.’"
-[^62]: Thornton, Robert. A new family herbal. London: for Richard Phillips, 1810, 756.	   
+[^62]: Thornton, Robert. A new family herbal. London: for Richard Phillips, 1810, 756.
+[^63]: Keeler, Harriet. Our Native Trees and How to Identify Them: A Popular Study of Their Habits and Their Peculiarities. New York: Charles Scribner’s Sons, 1917. 
+[^64]: Keeler, Harriet. Our Native Trees and How to Identify Them: A Popular Study of Their Habits and Their Peculiarities. New York: Charles Scribner’s Sons, 1917. 
+[^65]: Sargent, Charles Sprague. Silva of North America. (Boston and New York: Houghton, Mifflin and Company, 1895), 79.
+	   
 	   
 	   
 	   
