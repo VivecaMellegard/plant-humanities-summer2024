@@ -108,7 +108,7 @@ Paragraph 33 Plant knowledge extended to the medicinal properties of every part 
 	   caption="Fruit of a red mulberry tree in Massachusetts. Credit: misspt 2018 on iNaturalist.">
 <param ve-image>
 			
-Paragraph 34 Observations recorded by Hernando de Soto in 1539 during
+Paragraph 34 Observations recorded by Hernando de Soto in 1539 during his travels through Florida and the southeastern states include uses of the red mulberry by tribal communities.[^80] The Rappahannock treated ringworm by rubbing the sap onto affected areas. Drinking the liquor made by steeping its bark was a Cherokee remedy for constipation. In addition to food and medicine, the red mulberry also provided fiber and pigments for dyeing cloth. The Choctaws of northwestern Florida made cloth from its inner bark: Putting the bark in hot water and mixing it with ashes, the threads were woven into a coarse, hemp-like fabric.[^81] 
 <param ve-video
 	   src="PyYa6EQQFnw&t=4s">
 	   
