@@ -84,7 +84,7 @@ Paragraph 29 At Lewis Ginter Botanical Garden near Richmond, Virginia, a 100-yea
 	   caption="Children climbing the 100 year old Morus rubra at Lewis Ginter Botanical Gardens, Virginia. Credit: Robert Llwellyn">
 <param ve-image>
 
-Paragraph 30 During his travels around North America in the 18th century
+Paragraph 30 During his travels around North America in the in the eighteenth century, the Swedish naturalist Pehr Kalm described the view of red mulberries on "fields, hills and near houses."[^66] The red mulberry was not only common in these landscapes of home, their timber was used to make homes. Red mulberry wood is weather- and insect-resistant and makes for fine cabinets and musical instruments.[^67] Its bark is suitable for "good and rough bast ropes."[^68] And it caters to birds, insects, and domestic animals. Species of birds that feed on the tree’s fruit include the yellow-billed cuckoo, kingbird, tree swallow, thrush, and warbler.[^69] In the southern states, the fruit of the red mulberry was good for fattening hogs and feeding poultry.[^70] Hardy and easy to grow, the red mulberry can be coppiced and pruned to make excellent hedges "keeping children in and animals out."[^71]  
 <param ve-image
 	   src="wc:UB_Maastricht_-_Kalm_1772_-_frontispiece.jpg"
 	   caption="Frontispiece of the 1772 Dutch translation of Pehr Kalm En Resa till Norra America. Credit: Maastricht University Library digital collections under Commons Licensing Wikimedia ">
@@ -186,6 +186,13 @@ Paragraph 39 Today, as we look beyond the functional
 [^63]: Keeler, Harriet. Our Native Trees and How to Identify Them: A Popular Study of Their Habits and Their Peculiarities. New York: Charles Scribner’s Sons, 1917. 
 [^64]: Keeler, Harriet. Our Native Trees and How to Identify Them: A Popular Study of Their Habits and Their Peculiarities. New York: Charles Scribner’s Sons, 1917. 
 [^65]: Sargent, Charles Sprague. Silva of North America. (Boston and New York: Houghton, Mifflin and Company, 1895), 79.
+[^66]: Kalm 1770 cited in Keeler, Harriet L. Our Native Trees and How to Identify Them; a Popular Study of Their Habits and Their Peculiarities. (New York: Charles Scribner’s Sons, 1910). https://doi.org/10.5962/bhl.title.56389.
+[^67]: Eric Meier, "Mulberry," The Wood Database, accessed August 9, 2024, https://www.wood-database.com/mulberry/#google_vignette.
+[^68]: Thornton, A new family herbal.
+[^69]: Gary L. Koller and Michael A. Dirr, "Arnoldia," Arnoldia 39, no. 3 (1979).
+[^70]: Sargent, Silva of North America.
+[^71]: Koller and Dirr, "Arnoldia." 	   
+	   
 	   
 	   
 	   
