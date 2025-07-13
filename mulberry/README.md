@@ -78,7 +78,7 @@ Paragraph 28 Horticulturists writing about the red mulberry use language that el
 	   src="wc:Morus_rubra_93979.png"
 	   caption="Drawing of Morus rubra L, the red mulberry from The Silva of North America vol 7 (1898) by C.S. Sargent. Courtesy of Missouri Botanical Garden public domain on Wikimedia.">
 	   
-Paragraph 29 At Lewis Ginter Botanical Garden near Richmond
+Paragraph 29 At Lewis Ginter Botanical Garden near Richmond, Virginia, a 100-year-old red mulberry is venerated and is a popular feature in its [Children’s Garden](https:www.lewisginter.org/a-giving-tree/). It's the only tree visitors are allowed to climb and harvest for berries. Websites devoted to native species and plant nurseries in the surrounding areas encourage gardeners to grow red mulberries, both for their fruit and the shade of their generous canopies. As summer temperatures continue to rise every year, these shade or cooling trees, in the vernacular of horticulture, become ever more alluring. In addition, they are also necessary for humans, birds, and insects as resting spaces, homes, and sources of nutritious berries.
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P29 Red Mulberry at Lewis Ginter Garden.jpg"
 	   caption="Children climbing the 100 year old Morus rubra at Lewis Ginter Botanical Gardens, Virginia. Credit: Robert Llwellyn">
