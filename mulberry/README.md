@@ -129,12 +129,12 @@ Paragraph 37 In the landscapes of past and present,the red mulberry inhabits a d
 	   src="wc:Bataille_de_Yorktown_by_Auguste_Couder.jpg"
 	   caption="George Washington accepts the surrender of the British General Charles Cornwallis in 1781 after the battle of Yorktown. Photograph of a painting by Auguste Couder. Commons Licensing Wikimedia ">
 
-Paragraph 38 Building on its deeply rooted presence in American history,
+Paragraph 38 Building on its deeply rooted presence in American history,the mulberry, particularly the native red mulberry, once held great promise for hopeful American planters. Although it had existed in the Americas for thousands of years, it was silk that moved the white mulberry and its genus to international prominence. The eventual end of sericulture and the American silk industry condemned the white mulberry as messy and undesirable. 
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 38 Morus_rubra_NRCS-1.png"
 	   caption="The full canopy of a red mulberry tree.Wikimedia commons">
 	   
-Paragraph 39 Today, as we look beyond the functional
+Paragraph 39 White mulberry is malleable, and the qualities that human cultivators imbued in the species—cropped short for ease of picking and grafting trees from male to female—were easily achieved. However, once the white mulberry's utilitarian purpose was lost, it was vilified in American gardens and fields as a relic of a failed sericultural project. While in horticulture, the white mulberry is considered a nuisance in the United States, in its wild form, it is revered in India as a Kalpavriksha—an old, gnarled, and wise tree of plenty. Today, as we look beyond the functional characterization of the tree, its true value—rooted in its cultural history and ecological significance—calls for recognition long overdue. Perhaps now, the red mulberry can be appreciated not for what it failed to provide but for what it has always offered.
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 39 Julia Ellen Rogers 1927 The Nature Library Trees.png"
 	   caption="Drawing of a red mulberry tree by Julia Ellen Rogers in the 1927 edition of The Nature Library Trees">
