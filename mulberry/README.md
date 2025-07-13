@@ -191,7 +191,12 @@ Paragraph 39 Today, as we look beyond the functional
 [^68]: Thornton, A new family herbal.
 [^69]: Gary L. Koller and Michael A. Dirr, "Arnoldia," Arnoldia 39, no. 3 (1979).
 [^70]: Sargent, Silva of North America.
-[^71]: Koller and Dirr, "Arnoldia." 	   
+[^71]: Koller and Dirr, "Arnoldia." 
+[^72]: Kenrick, William. American Silk Growers’ Guide. Boston: Weeks, Jordon and Company, 1839. 
+[^73]: Krochmal, A. "The vanishing white mulberry of northern Greece." Economic Botany 8, no. 2 (1954): 145-151.
+[^74]: Laws, Bill. Fifty plants that changed the course of history. Newton Abbot: David & Charles, 2010.
+[^75]: The male tree produces clouds of pollen that cause hay fever, but when a branch from a female tree is grafted onto it, the male tree becomes female and stops producing pollen. The tree is allergy free! (https://arboretum.uoguelph.ca,)
+	   
 	   
 	   
 	   
