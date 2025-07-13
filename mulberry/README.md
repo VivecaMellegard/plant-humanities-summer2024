@@ -71,6 +71,8 @@ Paragraph 27 The hype spread from state to state: New Jersey, Pennsylvania, Dela
 	   caption="A page from a manual on rearing silkworms issued by the U.S. Department of Agriculture in 1903. Open Access Biodiversity Heritage Library">
 <param ve-image>
 
+>Nor is this tree less beautiful to the eye than the fairest elm, and is very proper for walks and avenues.[^62]
+
 Paragraph 28 Horticulturists writing about the red mulberry
 <param ve-image
 	   src="wc:Morus_rubra_93979.png"
@@ -180,6 +182,7 @@ Paragraph 39 Today, as we look beyond the functional
 [^59]: Chambliss.
 [^60]: Marsh, "The Republic's New Clothes."
 [^61]: Ryland, "America’s ‘Multicaulis Mania.’"
+[^62]: Thornton, Robert. A new family herbal. London: for Richard Phillips, 1810, 756.	   
 	   
 	   
 	   
