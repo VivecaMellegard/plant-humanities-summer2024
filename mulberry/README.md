@@ -98,7 +98,7 @@ Paragraph 31 For centuries, people in different parts of the world have used mul
 	   caption="A young woman in the village of Basilica, Macedonia holds a home-spun silk dress. Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR">
 <param ve-image>
 	
-Paragraph 32 Alongside the pruning, grafting, altering
+Paragraph 32 Alongside the pruning, grafting, altering, and shaping to suit human needs, a different quality of relationship with the red mulberry co-evolved with Native American peoples. In his travelogue recounting his journeys through North American landscapes in the eighteenth century, Pehr Kalms wrote of the fruit bread he ate with the Iroquois peoples: it was "just like the puddings which our women pack full of raisins."[^76] The tree’s berries provided fruit, preserves, such as jams and syrups, as well as mulberry wine. 
 <param ve-video
 	   src="NFXZCJwRRs8&t=13s">
 			
@@ -196,6 +196,7 @@ Paragraph 39 Today, as we look beyond the functional
 [^73]: Krochmal, A. "The vanishing white mulberry of northern Greece." Economic Botany 8, no. 2 (1954): 145-151.
 [^74]: Laws, Bill. Fifty plants that changed the course of history. Newton Abbot: David & Charles, 2010.
 [^75]: The male tree produces clouds of pollen that cause hay fever, but when a branch from a female tree is grafted onto it, the male tree becomes female and stops producing pollen. The tree is allergy free! (https://arboretum.uoguelph.ca,)
+[^76]: Kalm, Pehr. Travels into North America Containing Its Natural History, and a Circumstantial Account of Its Plantations and Agriculture in General : With the Civil, Ecclesiastical and Commercial State of the Country, the Manners of the Inhabitants, and Several Curious and Important Remarks on Various Subjects. London: Printed for the editor; and sold by T. Lowndes, 1771. https://www.biodiversitylibrary.org/page/32458197. 	   
 	   
 	   
 	   
