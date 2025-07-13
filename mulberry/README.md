@@ -55,7 +55,7 @@ Paragraph 12 Van Gogh painted a mulberry tree in 1889, one year before his death
 	   caption="Three men carousing beneath a mulberry tree. Letterpress after etching by Isaac Cruikshank 1808. Wellcome Collection Open Access on JSTOR">
 <param ve-image>
 
-Paragraph 26 Present in the landscapes of our childhoods
+Paragraph 26 Present in the landscapes of our childhoods and imaginations, how was it that the mulberry tree transformed from the harbinger of wealth to a pest, by some accounts, even an invasive species? A key factor is "mulberry mania," which took hold of the northeastern United States in the 1830s. The fast-growing Morus multicaulis tree—a white mulberry variant that arrived in the United States from China, had immediate appeal. Its large leaves were easy to harvest and provided an abundant and nutritious source of food for silkworms. State subsidies encouraged the widespread planting of trees to supply an ever-increasing number of forays into silk production.[^56]  
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P 26 image 1 Growth and Manufacture of Silk 1828.jpeg"
 	   caption="Representation of the different ages of the silk worm. Illustration in The growth and manufacture of silk 1828 Secretary of the Treasury. Courtesy of Oak Springs Library">
@@ -65,7 +65,7 @@ Paragraph 26 Present in the landscapes of our childhoods
 	   caption="Group of workers at the Hand Silk Mill. In 1889, George Wheeler of Baltimore and C.W. Wilder of New York built a silk throwing factory in Fredericksburg, Virginia. Credit National Child Labor Committee collection, Library of Congress, Prints and Photographs Division.">
 <param ve-image>
 
-Paragraph 27 The hype spread from state to state
+Paragraph 27 The hype spread from state to state: New Jersey, Pennsylvania, Delaware, Maryland, and Virginia were early adopters,[^57] and Vermont, Massachusetts, and Connecticut followed suit. Mulberry mania spread south to South Carolina.[^58]  Advertisements in newspapers and magazines promised buyers a ten-fold increase in trees and, therefore, in profits over just one season.[^59]  Millions of hastily raised white mulberry trees were sold, inflating a speculative bubble that burst just as the entire nation’s economy collapsed in the late 1830s.[^60] It seems true to say that the role of the leaves of the white mulberry in the failed economy of silk production tainted the tree itself.[^61]  
 <param ve-image
 	   src="gh:VivecaMellegard/plant-humanities-summer2024/main/mulberry/P27 Rearing silkworms Washington 1883.png"
 	   caption="A page from a manual on rearing silkworms issued by the U.S. Department of Agriculture in 1903. Open Access Biodiversity Heritage Library">
@@ -174,5 +174,7 @@ Paragraph 39 Today, as we look beyond the functional
 [^21]: Coles, Mulberry, p174
 [^22]: Platt, Mulberry Fruit Poem; Isaac Cruikshank, Three Men Carousing beneath a Mulberry Tree, with Verses of a Song Comparing the Life of Humans to the Life of a Tree, etching after I. Cruikshank, March 1, 1808, [1 print: etching and letterpress], Wellcome Collection.
 [^23]: According to one source, the rhyme is about women prisoners walking around the mulberry tree at Wakefield Prison in Great Britain. The prison was originally built in 1594 and has housed some of the UK’s most notorious prisoners. The tree died and was removed in 2019 but cuttings from it have been germinated and the next generation tree is now in Yorkshire Sculpture Park (Dave Higgens, "Mulberry bush that inspired nursery rhyme has new lease of life," The Independent,  March 30, 2023).
+[^56]: Chambliss, "The mulberry craze."
+	   
 	   
 	   
